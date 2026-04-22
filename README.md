@@ -6,10 +6,10 @@ Manage products through a clean, interactive terminal interface.
 ---
 
 ## 👤 Author
-- **Name:** Your Name
-- **Roll No:** Your Roll Number
-- **Course:** AI-Based Application Development
-- **Institution:** Your Institution Name
+- **Name:** Ch. Muhammad Huzaifa
+- **Roll No:** 232201036
+- **Course:** Visual Programming Lab
+- **Institution:** KICSIT
 
 ---
 
